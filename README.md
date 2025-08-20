@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning   TS / SvelteKit / Vue work with complex data  
 - 📫 You could reach me in the telegram: @evilKulich or by julia91742003@gmail.com  
 - 😄 Pronouns: she/her  
-- Nice to meet you, thanks for coming ===>  
-- 初めまして、来てくれてありがとう))
+- Nice to meet you, thanks for coming
